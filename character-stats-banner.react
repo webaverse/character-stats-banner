@@ -1,5 +1,5 @@
 {
-  "jsxUrl": "./CharacterStatsBanner.js",
+  "jsxUrl": "./CharacterStatsBanner.jsx",
   "boneAttachment": "head",
   "position": [0.7, 0, 0]
 }
